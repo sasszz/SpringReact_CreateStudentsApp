@@ -1,5 +1,6 @@
 # Spring Backend and React Frontend
 ## Test No. 1
+## Credit to https://github.com/arjungautam1 for the tutorial
 
 ## Key Features:
 - Material UI icons and components
@@ -15,6 +16,10 @@
 - Postman Web (testing)
 - Spring initializr
 - Material UI
+
+## Roadblocks:
+- npm install Material UI, resolved with --force
+- POST method in React frontend required adjustments and solution deviates from the tutorial
 
 ## Tutorial:
 https://www.youtube.com/watch?v=O_XL9oQ1_To
