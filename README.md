@@ -1,6 +1,6 @@
 # Spring Backend and React Frontend
 ## Test No. 1
-## Credit to https://github.com/arjungautam1 for the tutorial
+Credit to https://github.com/arjungautam1 for the tutorial
 
 ## Key Features:
 - Material UI icons and components
